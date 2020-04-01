@@ -187,3 +187,22 @@ footer p {
     opacity: 1;
     visibility: visible;
 }
+
+/* SOBRE */
+div .secSobre {
+    width: 100%;
+    margin-top: 50px;
+}
+
+div .secSobre article {
+    margin-bottom: 30px;
+}
+
+div .secSobre h2 {
+    font-size: 24px;
+}
+
+div .secSobre p {
+    font-size: 18px;
+    line-height: 28px;
+}
